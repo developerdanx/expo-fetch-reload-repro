@@ -39,3 +39,13 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# repro artifacts
+/ios
+/build
+/crashes
+*.log
+env-info.txt
+doctor.txt
+sim.udid
+.mark
